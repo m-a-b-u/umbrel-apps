@@ -29,14 +29,14 @@ gallery:
 path: ""
 releaseNotes: >-
   This update includes various improvements and new features:
-      - Added Georgian language support
-      - Improved movie selection interface with poster click functionality
-      - Added a UI note clarifying that filters apply to movie properties only
-      - Fixed parsing of UHDBDRip as BluRay quality
-      - Resolved issues with TMDb list paging
-      - Improved handling of authentication success logging
-      - Updated multiple translations
-      - Fixed missing translation keys
+    - Added Georgian language support
+    - Improved movie selection interface with poster click functionality
+    - Added a UI note clarifying that filters apply to movie properties only
+    - Fixed parsing of UHDBDRip as BluRay quality
+    - Resolved issues with TMDb list paging
+    - Improved handling of authentication success logging
+    - Updated multiple translations
+    - Fixed missing translation keys
 
 
   Full release notes for Radarr are available at https://github.com/Radarr/Radarr/releases
