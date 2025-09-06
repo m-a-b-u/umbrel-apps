@@ -2,19 +2,20 @@ manifestVersion: 1
 id: activepieces
 category: automation
 name: Activepieces
-version: "0.68.1"
+version: "0.68.2"
 releaseNotes: >-
   This release brings exciting new features and improvements:
 
 
-    - Fixed issues with memory usage and peer dependencies
-    - Improved handling of project states
-    - Added support for multiple attachments in Gmail piece
-    - Updated Wedof and Medullar pieces
-    - Added new OpenPhone piece
-    - Fixed retry functionality for steps within loops
-    - Resolved issues with custom pieces import
-    - Improved installation process for piece dependencies
+    - Added new pieces including Video AI, Mailchimp, and Pinecone
+    - Implemented ClickFunnels piece
+    - Enhanced Microsoft authentication with improved descriptions
+    - Added Private Key authentication for SFTP
+    - Improved handling of custom pieces and translations
+    - Fixed issues with file properties in dynamic props
+    - Enhanced project release functionality
+    - Improved task limit display and usage tracking
+    - Resolved memory usage and peer dependency issues
 
 
   For full release notes, visit https://github.com/activepieces/activepieces/releases
